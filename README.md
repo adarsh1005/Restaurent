@@ -9,3 +9,4 @@ Calculate the total in 1 click
 Reset the data
 Feedback form
 Orders and the total is stored in the inbuilt database of Pycharm IDE i.e DB SQLite.
+
